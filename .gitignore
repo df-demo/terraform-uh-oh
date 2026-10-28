@@ -1,0 +1,8 @@
+//Ignoring Secrets
+secret.auto.tfvars
+
+//Ignore IDE files
+.idea/
+
+//Ignore terraform config files
+.terraform/*
